@@ -51,6 +51,11 @@ table {
 }
 /* Root Variables */
 /* Global Style (mobile first/small)*/
+html {
+    background-color: blue;
+}
+
+
 /* Media query (medium)*/
 /* Media query (large)*/
 /* Media query (xl)*/
